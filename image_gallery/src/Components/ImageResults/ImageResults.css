@@ -1,0 +1,16 @@
+.image{
+    width: 300px;
+    height: 300px;
+   border-radius: 10px;
+}
+.image:hover{
+    scale: 1.02;
+}
+.image-wrapper{
+    padding: 90px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 20px;
+    row-gap: 20px;
+}

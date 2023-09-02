@@ -1,0 +1,12 @@
+.heading{
+    text-align: center;
+    color: blue;
+    text-decoration: solid;
+    font-weight: bolder;
+    font-kerning: normal;
+    letter-spacing: 2px;
+    word-wrap: break-word;
+}
+body{
+    background-color: bisque;
+}
